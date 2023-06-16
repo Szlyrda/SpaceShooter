@@ -1,0 +1,34 @@
+D:\Programowanie\Visual Studio Repos\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\Programowanie\Visual Studio Repos\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\Programowanie\Visual Studio Repos\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
+D:\Programowanie\Visual Studio Repos\SpaceShooter\bin\Debug\SpaceShooter.exe.manifest
+D:\Programowanie\Visual Studio Repos\SpaceShooter\bin\Debug\SpaceShooter.application
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.exe.manifest
+D:\Programowanie\Visual Studio Repos\SpaceShooter\obj\Debug\SpaceShooter.application
+C:\Users\user\Desktop\moje\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\user\Desktop\moje\SpaceShooter\bin\Debug\SpaceShooter.exe.manifest
+C:\Users\user\Desktop\moje\SpaceShooter\bin\Debug\SpaceShooter.application
+C:\Users\user\Desktop\moje\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\user\Desktop\moje\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.exe.manifest
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.application
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.pdb
