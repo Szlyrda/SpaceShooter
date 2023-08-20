@@ -12,7 +12,7 @@ namespace SpaceShooter
         WindowsMediaPlayer shootgMedia;
         WindowsMediaPlayer explosion;
 
-        
+        // Tablice elementów PictureBox dla obiektów w grze
         PictureBox[] stars;
         int playerSpeed;
 

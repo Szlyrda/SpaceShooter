@@ -32,3 +32,20 @@ C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.exe.manifest
 C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.application
 C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.exe
 C:\Users\user\Desktop\moje\SpaceShooter\obj\Debug\SpaceShooter.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\bin\Debug\SpaceShooter.exe.manifest
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\bin\Debug\SpaceShooter.application
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\bin\Debug\SpaceShooter.exe
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\bin\Debug\SpaceShooter.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.exe.manifest
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.application
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.exe
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Gra\SpaceShooter\obj\Debug\SpaceShooter.pdb
